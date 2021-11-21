@@ -7,6 +7,6 @@ Database contains two Tables- Users Table & Transaction Table
 
 * User table have basic fields such as name, email & current balance.
 
-8 Transaction table records all transfers happened along with their time.
+* Transaction table records all transfers happened along with their time.
 
 Flow of the Website: Homepage > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
